@@ -1,10 +1,10 @@
 library(dplyr) # data manipulation
 library(readr) # input/output
 library(MatchIt) # PSM
+library(Matching) # PSM
 library(stargazer) # table exporter
 library(survey) # subsampling design
 library(plm) # regression model
-library(Matching) # PSM
 library(ggplot2) # data visualization
 
 # Import data
