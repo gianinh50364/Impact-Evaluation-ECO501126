@@ -1,5 +1,6 @@
 # Impact-Evaluation
-A repository contains materials for my course's final project
+- Variables choosing
+Table 1: Country, target groups, obs.periods and outcomes
 | Study          | Country  | Target group                                                | Observation period                     | Outcome of interest                                                   |
 | -------------- | -------- | ----------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------- |
 | Thanh (2008)   | Vietnam  | 2070 household in the Bavi<br>district (FilaBavi)           | 06/2001 - 06/2002                      | Willingness-to-pay, Public health care cost                           |
@@ -10,6 +11,10 @@ A repository contains materials for my course's final project
 | Dauth (2020)   | Germany  | Low skilled workers                                         | 2007 - 2010                            | Subsidies training effects                                            |
 | Martins (2021) | Portugal | 2000 firms participated in FIG programme funded by ESF      | 2007 - 2011                            | Firm perfomance                                                       |
 
+
+
+
+Table 2: Estimation method, variables that used in my study and link to their journals
 | Study          | Estimation method                                            | Variables to justify                                  | Master Journal Lists                                                                                                                                                            | Scopus                                              |
 | -------------- | ------------------------------------------------------------ | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | Thanh (2008)   | WTP approach                                                 | Insurance, exptot_health, famsize, income, age, educ. | [Link](https://mjl.clarivate.com/search-results?issn=1478-7547&hide_exact_match_fl=true&utm_source=mjl&utm_medium=share-by-link&utm_campaign=search-results-share-this-journal) | [Link](https://www.scopus.com/sourceid/12788)       |
@@ -20,6 +25,9 @@ A repository contains materials for my course's final project
 | Dauth (2020)   | OLS, 2SLS, Local Average Treatment Effect (LATE) Framework   | Training, educ, firmsize.                             | [Link](https://mjl.clarivate.com/search-results?issn=0019-7939&hide_exact_match_fl=true&utm_source=mjl&utm_medium=share-by-link&utm_campaign=search-results-share-this-journal) | [Link](https://www.scopus.com/sourceid/19680)       |
 | Martins (2021) | Quasi-experimental approach, difference-in-differences (DiD) | Training, export, profit, revenue, age, educ.         | [Link](https://mjl.clarivate.com/search-results?issn=2193-9004&hide_exact_match_fl=true&utm_source=mjl&utm_medium=share-by-link&utm_campaign=search-results-share-this-journal) | [Link](https://www.scopus.com/sourceid/21100775627) |
 
+
+
+Table 3: The study results
 | Study          | Results                                                                                                                                                                                                                                                 |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Thanh (2008)   | WTP is sufficient to cover household costs for public health care, it depends to what extent households would substitute private for public care and increase utilization as to whether WTP would also be sufficient enough to finance health insurance |
