@@ -1,5 +1,6 @@
 # Impact-Evaluation
 - Variables choosing
+
 Table 1: Country, target groups, obs.periods and outcomes
 
 | Study          | Country  | Target group                                                | Observation period                     | Outcome of interest                                                   |
