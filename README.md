@@ -1,6 +1,7 @@
 # Impact-Evaluation
 - Variables choosing
 Table 1: Country, target groups, obs.periods and outcomes
+
 | Study          | Country  | Target group                                                | Observation period                     | Outcome of interest                                                   |
 | -------------- | -------- | ----------------------------------------------------------- | -------------------------------------- | --------------------------------------------------------------------- |
 | Thanh (2008)   | Vietnam  | 2070 household in the Bavi<br>district (FilaBavi)           | 06/2001 - 06/2002                      | Willingness-to-pay, Public health care cost                           |
