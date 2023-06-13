@@ -2,8 +2,8 @@ library(dplyr) # data manipulation
 library(data.table) # data manipulation
 library(readr) # input/output
 library(MatchIt) # PSM
-library(stargazer) # table exporter
 library(cobalt) # calculate SMD
+library(stargazer) # table exporter
 
 # Import data
 data <- read_csv('C:/Users/PC-Quang Bien/Desktop/Impact evaluation final/Q3/data_3.csv')
